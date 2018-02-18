@@ -1,0 +1,73 @@
+2016 2005
+White 27.40% 618 White 31.50% 537
+African-American 69.70% 1,573 African-American 65.50% 1116
+Latino 0.80% 18 Latino <1% 10
+Asian 1.90% 44 Asian 2% 34
+Other 0.20% 4 Other <1% 1
+International 1% 18
+2014 2003
+White 28.6% 813 White 29% 516
+African-American 68.7% 1957 African-American 69% 1228
+Latino 0.7% 19 Latino 1% 9
+Asian 1.1% 31 Asian 1% 22
+Other 0.9% 27 Other 0% 0
+International 1.0% 30
+2013 2000
+White 31.0% 866 White 0 0
+African-American 67.3% 1883 African-American 0 0
+Latino 0.6% 16 Latino 0 0
+Asian 0.7% 19 Other 0 0
+Other 0.5% 14 1999
+International 1.5% 43 White 32% 0
+2012 African-American 67% 0
+White 30.1% 820 Latino <1% 0
+African-American 66.3% 1804 Other <1% 0
+Latino 0.7% 20 1998
+Asian 1.1% 29 White 32% 0
+Other 1.8% 48 African-American 66% 0
+International 1.4% 39 Latino <1% 0
+2011 Other 1% 0
+White 31% 802 1997
+African-American 67% 1721 White 33% 0
+Latino 1% 13 African-American 65% 0
+Asian 2% 40 Latino <1% 0
+Other 1% 7 Other 1% 0
+International 1% 20 1996
+2010 White 31% 0
+White 31% 790 African-American 66% 0
+African-American 67% 1714 Latino <1% 0
+Latino 1% 13 Other 2% 0
+Asian 2% 39 1995
+Other 1% 7 White 31% 0
+International 1% 20 African-American 67% 0
+2009 Latino 0% 0
+White 30% 782 Other <2% 0
+African-American 67% 1761 1994
+Latino 1% 24 White 31% 0
+Asian 2% 55 African-American 68% 0
+Other <1% 2 Latino 0% 0
+International 2% 48 Other 1% 0
+2008 1993
+White 31% 805 White 35% 0
+African-American 67% 1762 African-American 65% 0
+Latino 1% 25 Latino 0% 0
+Asian 2% 45 1992
+Other <1% 1 White 30% 0
+International 2% 63 African-American 68% 0
+2007 Latino <1% 0
+White 31% 730 Other 1% 0
+African-American 66% 1566 1991
+Latino 1% 30 White 36% 0
+Asian 2% 44 African-American 62% 0
+Other <1% 1 Latino 2% 0
+International 2% 43 1990
+2006 White 39% 0
+White 31% 532 African-American 61% 0
+African-American 67% 1131 Latino 0% 0
+Latino 0.5% 8
+Asian 1.5% 25
+Other 0% 0
+International 1% 24
+0=Data not recorded
+Players
+Table 1
